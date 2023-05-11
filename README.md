@@ -3,4 +3,4 @@
 > ### Cara menjalankan
 >
 > - Download atau clone repository ini
-> - buka lalu jalankan `node index.js`
+> - buka lalu jalankan `node index.js pada terminal`
